@@ -1,0 +1,5 @@
+01/12/2016
+Repartición de las clases entre los miembros del Departamento de Desarrollo e Innovación:
+
+Clase "Cambiar Propietario" - José Manuel Heredia Oliver
+Clase "Pagar Sanción" - David García Silvestre
